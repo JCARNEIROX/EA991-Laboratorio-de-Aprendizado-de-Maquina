@@ -1,0 +1,6 @@
+[submodule "Aula_02"]
+	path = Aula_02
+	url = https://github.com/JCARNEIROX/Aula_02.git
+[submodule "Atividade_01"]
+	path = Atividade_01
+	url = https://github.com/JCARNEIROX/Atividade_01.git
