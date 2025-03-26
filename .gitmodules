@@ -4,3 +4,6 @@
 [submodule "Atividade_01"]
 	path = Atividade_01
 	url = https://github.com/JCARNEIROX/Atividade_01.git
+[submodule "Aula_03"]
+	path = Aula_03
+	url = https://github.com/JCARNEIROX/Aula_03.git
