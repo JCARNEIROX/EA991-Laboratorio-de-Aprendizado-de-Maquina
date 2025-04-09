@@ -7,3 +7,6 @@
 [submodule "Aula_03"]
 	path = Aula_03
 	url = https://github.com/JCARNEIROX/Aula_03.git
+[submodule "Aula_04"]
+	path = Aula_04
+	url = https://github.com/JCARNEIROX/Aula_04
